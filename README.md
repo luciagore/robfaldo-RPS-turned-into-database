@@ -1,3 +1,6 @@
+I worked alongside Rob Faldo on this challenge in order to change his code for his RPS challenge so that it can work with a database and add scores from the RPS challenge to a database - we can also now update the database if the same username plays multiple times.
+
+
 Rock Scissors Paper Challenge
 ==================
 
